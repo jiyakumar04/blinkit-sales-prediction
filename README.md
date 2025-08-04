@@ -1,7 +1,5 @@
-# blinkit-sales-prediction
+# Blinkit Grocery Sales Prediction
 Predicting grocery item sales using EDA and regression models (Blinkit dataset)
-
-# 🛒 Blinkit Grocery Sales Prediction
 
 A machine learning regression project to predict grocery item sales using BlinkIT retail data. Includes full EDA, preprocessing, and model evaluation using Linear Regression, XGBoost, and Random Forest.
 
