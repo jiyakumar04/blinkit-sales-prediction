@@ -22,7 +22,7 @@ Python, Pandas, Seaborn, Scikit-learn, XGBoost, Colab
 ## 📁 Files
 
 - `BlinkIT_Grocery_Data.xlsx` — Dataset
-- `notebook.ipynb` — Code & analysis
+- `blinkit.ipynb` — Code & analysis
 - `README.md` — Project summary
 
 #💡 Author
