@@ -5,6 +5,8 @@ Predicting grocery item sales using EDA and regression models (Blinkit dataset)
 
 A machine learning regression project to predict grocery item sales using BlinkIT retail data. Includes full EDA, preprocessing, and model evaluation using Linear Regression, XGBoost, and Random Forest.
 
+> 🔍 Goal: Help predict item-level sales for better demand forecasting in retail.
+
 ## 📌 Highlights
 
 - Data Cleaning & Feature Engineering
@@ -25,7 +27,5 @@ Python, Pandas, Seaborn, Scikit-learn, XGBoost, Colab
 
 #💡 Author
 Jiya Kumar
----
 
-> 🔍 Goal: Help predict item-level sales for better demand forecasting in retail.
 
